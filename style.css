@@ -1,0 +1,118 @@
+
+
+*{
+    background-color: rgb(170, 170, 170);
+    margin: 10px;
+}
+
+
+body{
+    font-family: 'Calibri', sans-serif;
+    background-color: rgb(229,229,229);
+    min-width: 700px;
+    margin-left: 600px;
+    margin-right: 600px;
+    
+}
+
+.title{
+    font-family: 'Candal', sans-serif;
+    color: rgb(137, 63, 75);
+    background-color: rgb(255, 255, 255) ;
+    text-align: center;
+    padding: 50px;
+ 
+}
+
+.date{
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.name{
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+table{
+    color: rgb(137, 63, 75);
+    border-color: rgb(229,229,229);
+    background-color: rgb(229,229,229);
+    text-align: left;
+    margin-left: 7%;
+    min-width: 700px;
+}
+
+th{
+    background-color: rgb(229,229,229);
+}
+
+td{
+
+    color: rgb(180, 40, 40);
+    background-color: rgb(229,229,229);
+    text-align: left;
+}
+
+.radio{
+    align-items: left;
+}
+
+input{
+    background-color: white;
+    border-color: grey;
+    margin-left: 0%;
+    border-color: rgb(186, 189, 199);
+}
+
+h3{
+    
+    color: rgb(137, 63, 75);
+    background-color: rgb(229,229,229);
+}
+
+button{
+    /* text-align: center; */
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    background:linear-gradient(360deg, rgb(138, 138, 138), #444);
+    min-width: 20%;
+    border: 2px;
+    border-color:#444;
+    
+}
+
+div{
+    
+    text-align: center;
+    background-color: rgb(229,229,229);
+   
+}
+
+.title_comment{
+    margin-left: 8%;
+}
+
+textarea{
+    color: lightgrey;
+    background-color: white;
+    border-color: grey;
+    height: 170px;
+    min-width: 800px;
+    margin-left: 8%;
+
+}
+
+
+/* 1- MARGIN LEFT AND RIGHT 
+   2- FIRST HEADER TO SERPERATE
+   3- LIST ALL BULLENT POINTS CLOSER AND NEXT TO EACH OTHER
+   4- FONT */
+
+   /* CHARBEL DAOUD REMAKRS:
+    1- FIX INPUT PRE INPUT 
+    2- FIX MARGIN */
